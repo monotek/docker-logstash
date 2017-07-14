@@ -1,2 +1,4 @@
-# docker-logstash
-docker-logtsash
+# docker-logstash-journald
+
+logstash with journald plugin
+
