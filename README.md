@@ -1,4 +1,4 @@
 # docker-logstash-journald
 
-logstash with journald plugin
+logstash without x-pack and with journald plugin
 
